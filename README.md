@@ -1,7 +1,7 @@
-# Hi there! I'm Muhammad Idrees 👋
+# Hi there! I'm Muhamamd Owais 👋
 
 ## About Me
-I am a computer science graduate with a passion for mobile application development and programming. I love building applications using Flutter and Java.
+I am a computer science graduate with a passion for mobile application development, web development and programming. I love building applications using Flutter and Java.
 
 ### Skills
 - Flutter
